@@ -25,7 +25,7 @@
       ["Education", "education.png"]
     ]
   },
-  "footerNavItems": {
+  "FooterNavItems": {
     "Editorial": [
       "Book lists",
       "What is NonFiction",
