@@ -1,22 +1,44 @@
 {
-  "images": [
-    {
-      "id": 4,
-      "author": "Sidharth",
-      "url": "images/bg.png",
-      "date": "2022-01-06"
-    },
-    {
-      "id": 5,
-      "author": "Nikhil",
-      "url": "images/background.jpg",
-      "date": "2022-01-04"
-    },
-    {
-      "id": 6,
-      "author": "Sidharth",
-      "url": "https://vinusimages.co/wp-content/uploads/2020/12/1.jpg",
-      "date": "2022-01-06"
-    }
-  ]
+  "ExploreItems": {
+    "Explore by category": [
+      ["Entrepreneurship", "entrepreneurship.png"],
+      ["Science", "science.png"],
+      ["Economics", "economics.png"],
+      ["Corporate Culture", "corporate-culture.png"],
+      ["Psychology", "psychology.png"],
+      ["Nature & Environment", "nature-and-environment.png"]
+    ],
+    "See recently added titles": [
+      ["Politics", "politics.png"],
+      ["Health & Nutrition", "health-and-nutrition.png"],
+      ["History", "history.png"],
+      ["Motivation & Inspiration", "motivation-and-inspiration.png"],
+      ["Productivity", "productivity.png"],
+      ["Career & Success", "career-and-success.png"]
+    ],
+    "See popular titles": [
+      ["Marketing & Sales", "marketing-and-sales.png"],
+      ["Personal Development", "personal-development.png"],
+      ["Communication Skills", "communication-skills.png"],
+      ["Money & Investments", "money-and-investments.png"],
+      ["Sex & Relationships", "sex-and-relationships.png"],
+      ["Education", "education.png"]
+    ]
+  },
+  "footerNavItems": {
+    "Editorial": [
+      "Book lists",
+      "What is NonFiction",
+      "What to read next?",
+      "Benefits of reading"
+    ],
+    "Useful links": [
+      "Pricing",
+      "Blinkist business",
+      "Gift cards",
+      "Blinkist magazine",
+      "Contact & help"
+    ],
+    "Company": ["About", "Careers", "Partners", "Code of Conduct"]
+  }
 }
