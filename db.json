@@ -1,4 +1,69 @@
 {
+  "cardsInfo" : [
+  {
+    title: "Bring Your Human to Work",
+    author: "Erica Keswin",
+    time: "13",
+    reads: "",
+    imageSrc: "1.png",
+  },
+  {
+    title: "Employee to Entrepreneur",
+    author: "Steve Glaveski",
+    time: "15",
+    reads: "",
+    imageSrc: "11.png",
+  },
+  {
+    title: "Doesn’t Hurt to Ask",
+    author: "Trey Gowdy",
+    time: "13",
+    reads: "1.9k",
+    imageSrc: "3.png",
+  },
+  {
+    title: "The Fate of Food",
+    author: "Amanda Little",
+    time: "12",
+    reads: "16k",
+    imageSrc: "4.png",
+  },
+  {
+    title: "Lives of the Stoics",
+    author: "Ryan Holiday, Stephen Hansel",
+    time: "13",
+    reads: "",
+    imageSrc: "5.png",
+  },
+  {
+    title: "Loving Your Business",
+    author: "Debbie King",
+    time: "13",
+    reads: "",
+    imageSrc: "6.png",
+  },
+  {
+    title: "The Lonely Century",
+    author: "Noreena Hertz",
+    time: "15",
+    reads: "",
+    imageSrc: "7.png",
+  },
+  {
+    title: "Eat Better, Feel Better",
+    author: "Giada De Laurentiis",
+    time: "13",
+    reads: "1.9k",
+    imageSrc: "8.png",
+  },
+  {
+    title: "Dropshipping",
+    author: "James Moore",
+    time: "12",
+    reads: "",
+    imageSrc: "9.png",
+  },
+],
   "ExploreItems": {
     "Explore by category": [
       ["Entrepreneurship", "entrepreneurship.png"],
