@@ -3,7 +3,8 @@
     {
       "id": 1,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "TrendingBlinks",
       "title": "Bring Your Human to Work",
       "author": "Erica Keswin",
       "time": "13",
@@ -13,7 +14,8 @@
     {
       "id": 2,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "TrendingBlinks",
       "title": "Employee to Entrepreneur",
       "author": "Steve Glaveski",
       "time": "15",
@@ -23,7 +25,8 @@
     {
       "id": 3,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "TrendingBlinks",
       "title": "Doesn’t Hurt to Ask",
       "author": "Trey Gowdy",
       "time": "13",
@@ -33,7 +36,8 @@
     {
       "id": 4,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "AudioBlinks",
       "title": "The Fate of Food",
       "author": "Amanda Little",
       "time": "12",
@@ -43,7 +47,8 @@
     {
       "id": 5,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "JustAdded",
       "title": "Lives of the Stoics",
       "author": "Ryan Holiday, Stephen Hansel",
       "time": "13",
@@ -53,7 +58,8 @@
     {
       "id": 6,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "JustAdded",
       "title": "Loving Your Business",
       "author": "Debbie King",
       "time": "13",
@@ -63,7 +69,8 @@
     {
       "id": 0,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "JustAdded",
       "title": "The Lonely Century",
       "author": "Noreena Hertz",
       "time": "15",
@@ -73,7 +80,8 @@
     {
       "id": 7,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "AudioBlinks",
       "title": "Eat Better, Feel Better",
       "author": "Giada De Laurentiis",
       "time": "13",
@@ -83,7 +91,8 @@
     {
       "id": 8,
       "isFinished": false,
-      "isAddedToLib":false,
+      "isAddedToLib": false,
+      "category": "AudioBlinks",
       "title": "Dropshipping",
       "author": "James Moore",
       "time": "12",
