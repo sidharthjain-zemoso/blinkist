@@ -2,7 +2,7 @@
   "CardsInfo": [
     {
       "id": 0,
-      "isFinished": true,
+      "isFinishedReading": true,
       "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Bring Your Human to Work",
@@ -13,7 +13,7 @@
     },
     {
       "id": 1,
-      "isFinished": true,
+      "isFinishedReading": true,
       "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Employee to Entrepreneur",
@@ -24,7 +24,7 @@
     },
     {
       "id": 2,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Doesn’t Hurt to Ask",
@@ -35,7 +35,7 @@
     },
     {
       "id": 3,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": true,
       "category": "AudioBlinks",
       "title": "The Fate of Food",
@@ -46,7 +46,7 @@
     },
     {
       "id": 4,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": true,
       "category": "JustAddedBlinks",
       "title": "Lives of the Stoics",
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": false,
       "category": "JustAddedBlinks",
       "title": "Loving Your Business",
@@ -68,7 +68,7 @@
     },
     {
       "id": 6,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": false,
       "category": "JustAddedBlinks",
       "title": "The Lonely Century",
@@ -79,7 +79,7 @@
     },
     {
       "id": 7,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": false,
       "category": "AudioBlinks",
       "title": "Eat Better, Feel Better",
@@ -90,7 +90,7 @@
     },
     {
       "id": 8,
-      "isFinished": false,
+      "isFinishedReading": false,
       "isAddedToLib": false,
       "category": "AudioBlinks",
       "title": "Dropshipping",
