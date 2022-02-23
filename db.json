@@ -1,69 +1,96 @@
 {
-  "CardsInfo" : [
-  {
-    "title": "Bring Your Human to Work",
-    "author": "Erica Keswin",
-    "time": "13",
-    "reads": "",
-    "imageSrc": "1"
-  },
-  {
-    "title": "Employee to Entrepreneur",
-    "author": "Steve Glaveski",
-    "time": "15",
-    "reads": "",
-    "imageSrc": "11"
-  },
-  {
-    "title": "Doesn’t Hurt to Ask",
-    "author": "Trey Gowdy",
-    "time": "13",
-    "reads": "1.9k",
-    "imageSrc": "3"
-  },
-  {
-    "title": "The Fate of Food",
-    "author": "Amanda Little",
-    "time": "12",
-    "reads": "16k",
-    "imageSrc": "4"
-  },
-  {
-    "title": "Lives of the Stoics",
-    "author": "Ryan Holiday, Stephen Hansel",
-    "time": "13",
-    "reads": "",
-    "imageSrc": "5"
-  },
-  {
-    "title": "Loving Your Business",
-    "author": "Debbie King",
-    "time": "13",
-    "reads": "",
-    "imageSrc": "6"
-  },
-  {
-    "title": "The Lonely Century",
-    "author": "Noreena Hertz",
-    "time": "15",
-    "reads": "",
-    "imageSrc": "7"
-  },
-  {
-    "title": "Eat Better, Feel Better",
-    "author": "Giada De Laurentiis",
-    "time": "13",
-    "reads": "1.9k",
-    "imageSrc": "8"
-  },
-  {
-    "title": "Dropshipping",
-    "author": "James Moore",
-    "time": "12",
-    "reads": "",
-    "imageSrc": "9"
-  }
-],
+  "CardsInfo": [
+    {
+      "id": 1,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "time": "13",
+      "reads": "",
+      "imageSrc": "1"
+    },
+    {
+      "id": 2,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "time": "15",
+      "reads": "",
+      "imageSrc": "11"
+    },
+    {
+      "id": 3,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Doesn’t Hurt to Ask",
+      "author": "Trey Gowdy",
+      "time": "13",
+      "reads": "1.9k",
+      "imageSrc": "3"
+    },
+    {
+      "id": 4,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "time": "12",
+      "reads": "16k",
+      "imageSrc": "4"
+    },
+    {
+      "id": 5,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "time": "13",
+      "reads": "",
+      "imageSrc": "5"
+    },
+    {
+      "id": 6,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "time": "13",
+      "reads": "",
+      "imageSrc": "6"
+    },
+    {
+      "id": 0,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "time": "15",
+      "reads": "",
+      "imageSrc": "7"
+    },
+    {
+      "id": 7,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "time": "13",
+      "reads": "1.9k",
+      "imageSrc": "8"
+    },
+    {
+      "id": 8,
+      "isFinished": false,
+      "isAddedToLib":false,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "time": "12",
+      "reads": "",
+      "imageSrc": "9"
+    }
+  ],
   "ExploreItems": {
     "Explore by category": [
       ["Entrepreneurship", "entrepreneurship"],
