@@ -2,8 +2,8 @@
   "CardsInfo": [
     {
       "id": 0,
-      "isFinished": false,
-      "isAddedToLib": false,
+      "isFinished": true,
+      "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Bring Your Human to Work",
       "author": "Erica Keswin",
@@ -13,8 +13,8 @@
     },
     {
       "id": 1,
-      "isFinished": false,
-      "isAddedToLib": false,
+      "isFinished": true,
+      "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Employee to Entrepreneur",
       "author": "Steve Glaveski",
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "isFinished": false,
-      "isAddedToLib": false,
+      "isAddedToLib": true,
       "category": "TrendingBlinks",
       "title": "Doesn’t Hurt to Ask",
       "author": "Trey Gowdy",
@@ -36,7 +36,7 @@
     {
       "id": 3,
       "isFinished": false,
-      "isAddedToLib": false,
+      "isAddedToLib": true,
       "category": "AudioBlinks",
       "title": "The Fate of Food",
       "author": "Amanda Little",
@@ -47,7 +47,7 @@
     {
       "id": 4,
       "isFinished": false,
-      "isAddedToLib": false,
+      "isAddedToLib": true,
       "category": "JustAddedBlinks",
       "title": "Lives of the Stoics",
       "author": "Ryan Holiday, Stephen Hansel",
