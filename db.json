@@ -1,7 +1,7 @@
 {
   "CardsInfo": [
     {
-      "id": 1,
+      "id": 0,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "TrendingBlinks",
@@ -12,7 +12,7 @@
       "imageSrc": "1"
     },
     {
-      "id": 2,
+      "id": 1,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "TrendingBlinks",
@@ -23,7 +23,7 @@
       "imageSrc": "11"
     },
     {
-      "id": 3,
+      "id": 2,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "TrendingBlinks",
@@ -34,7 +34,7 @@
       "imageSrc": "3"
     },
     {
-      "id": 4,
+      "id": 3,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "AudioBlinks",
@@ -45,7 +45,7 @@
       "imageSrc": "4"
     },
     {
-      "id": 5,
+      "id": 4,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "JustAddedBlinks",
@@ -56,7 +56,7 @@
       "imageSrc": "5"
     },
     {
-      "id": 6,
+      "id": 5,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "JustAddedBlinks",
@@ -67,7 +67,7 @@
       "imageSrc": "6"
     },
     {
-      "id": 0,
+      "id": 6,
       "isFinished": false,
       "isAddedToLib": false,
       "category": "JustAddedBlinks",
